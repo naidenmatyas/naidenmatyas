@@ -1,4 +1,4 @@
-# Hi, I'm Matyas:
+# Hi, I'm Matyas
 👩🏻‍🎓 Studying at Universitatea Politehnica Bucuresti, Romania</br>👩🏻‍💻 I love learning new languages and frameworks.</br>
 
 
